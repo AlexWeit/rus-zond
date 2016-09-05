@@ -1,0 +1,20 @@
+{
+  "name": "rus-zond",
+  "description": "russian zond",
+  "main": "gulpfile.js",
+  "repository": "https://github.com/AlexWeit/rus-zond",
+  "author": "Alexandra Veyt",
+  "devDependencies": {
+    "browser-sync": "^2.14.3",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7"
+  }
+}
